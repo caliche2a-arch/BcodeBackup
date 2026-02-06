@@ -150,6 +150,8 @@ export const translations = {
             cali: 'Cali, Colombia',
             usaProjects: 'Proyectos en USA',
             globalClients: 'Clientes Globales',
+            faq: 'FAQ',
+            contact: 'Contacto',
             rights: 'Todos los derechos reservados.'
         }
     },
@@ -304,6 +306,8 @@ export const translations = {
             cali: 'Cali, Colombia',
             usaProjects: 'USA Projects',
             globalClients: 'Global Clients',
+            faq: 'FAQ',
+            contact: 'Contact',
             rights: 'All rights reserved.'
         }
     }
