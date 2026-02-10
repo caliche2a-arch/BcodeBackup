@@ -315,7 +315,7 @@ function App() {
                   <div className="contact-icon">📱</div>
                   <div>
                     <div style={{ color: 'var(--text)', fontWeight: '600' }}>{t('contact.info.phones')}</div>
-                    <div style={{ color: 'var(--text-muted)' }}>+57 300 385 9125</div>
+                    <div style={{ color: 'var(--text-muted)' }}>+57 318 376 3021/+57 300 385 9125</div>
                   </div>
                 </div>
 
