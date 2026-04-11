@@ -77,6 +77,7 @@ function App() {
   const webTech = t('services.web.tech', { returnObjects: true }) as string[]
   const mobileTech = t('services.mobile.tech', { returnObjects: true }) as string[]
   const designTech = t('services.design.tech', { returnObjects: true }) as string[]
+  const seoTech = t('services.seo.tech', { returnObjects: true }) as string[]
 
   return (
     <>
@@ -196,6 +197,17 @@ function App() {
               <p className="service-description">{t('services.design.description')}</p>
               <ul className="service-tech">
                 {designTech.map((tech, index) => (
+                  <li key={index}>{tech}</li>
+                ))}
+              </ul>
+            </div>
+
+            <div className="service-card">
+              <div className="service-icon">🚀</div>
+              <h3 className="service-title">{t('services.seo.title')}</h3>
+              <p className="service-description">{t('services.seo.description')}</p>
+              <ul className="service-tech">
+                {seoTech.map((tech, index) => (
                   <li key={index}>{tech}</li>
                 ))}
               </ul>
@@ -395,6 +407,7 @@ function App() {
                   <option value="mobile">{t('contact.form.mobile')}</option>
                   <option value="design">{t('contact.form.design')}</option>
                   <option value="both">{t('contact.form.both')}</option>
+                  <option value="seo">{t('contact.form.seo')}</option>
                   <option value="other">{t('contact.form.other')}</option>
                 </select>
                 {errors.projectType && <span className="error-message" style={{ color: 'var(--color-error)', fontSize: '0.875rem', marginTop: '0.25rem', display: 'block' }}>{errors.projectType}</span>}

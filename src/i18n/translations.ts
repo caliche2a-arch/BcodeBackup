@@ -9,9 +9,9 @@ export const translations = {
             contact: 'Contacto'
         },
         hero: {
-            subtitle: 'Desarrollo Web & Móvil',
-            title: 'Transformamos Ideas en Aplicaciones de Clase Mundial',
-            description: 'Desde Cali, Colombia 🇨🇴 para el mundo. Creamos aplicaciones web y móviles con tecnología de vanguardia, diseño excepcional y código de calidad profesional.',
+            subtitle: 'Consultoría y Desarrollo de Software',
+            title: 'Multiplica las Ventas de tu Empresa con Tecnología',
+            description: 'Desde Cali 🇨🇴 para el mundo. Automatiza procesos, mejora tu visibilidad en Google y escala tu negocio con soluciones de software a medida.',
             cta1: 'Iniciar Proyecto',
             cta2: 'Ver Servicios'
         },
@@ -33,6 +33,11 @@ export const translations = {
                 title: 'Diseño Gráfico',
                 description: 'Identidad de marca, diseño UI/UX, y soluciones visuales que destacan. Creamos diseños modernos que no solo se ven bien, sino que convierten y generan resultados.',
                 tech: ['Branding & Identidad', 'UI/UX Design', 'Prototipos & Wireframes', 'Design Systems']
+            },
+            seo: {
+                title: 'Posicionamiento SEO',
+                description: 'Hacemos que tu empresa aparezca en la primera página de Google. Optimizamos tu presencia digital para atraer clientes orgánicamente e impulsar tus ventas.',
+                tech: ['Auditoría SEO Técnica', 'Optimización Local (Google Mi Negocio)', 'Búsqueda de Keywords', 'Velocidad Web Optimizada']
             }
         },
         about: {
@@ -124,6 +129,7 @@ export const translations = {
                 web: 'Desarrollo Web',
                 mobile: 'Aplicación Móvil',
                 design: 'Diseño Gráfico',
+                seo: 'Posicionamiento SEO',
                 both: 'Web + Móvil',
                 other: 'Otro',
                 message: 'Mensaje',
@@ -165,9 +171,9 @@ export const translations = {
             contact: 'Contact'
         },
         hero: {
-            subtitle: 'Web & Mobile Development',
-            title: 'We Transform Ideas into World-Class Applications',
-            description: 'From Cali, Colombia 🇨🇴 to the world. We create web and mobile applications with cutting-edge technology, exceptional design, and professional-quality code.',
+            subtitle: 'Software Consulting & Development',
+            title: 'Multiply Your Company Sales with Technology',
+            description: 'From Cali 🇨🇴 to the world. Automate processes, improve your Google visibility (SEO), and scale your business with custom software solutions.',
             cta1: 'Start Project',
             cta2: 'View Services'
         },
@@ -189,6 +195,11 @@ export const translations = {
                 title: 'Graphic Design',
                 description: 'Brand identity, UI/UX design, and visual solutions that stand out. We create modern designs that not only look good but convert and generate results.',
                 tech: ['Branding & Identity', 'UI/UX Design', 'Prototypes & Wireframes', 'Design Systems']
+            },
+            seo: {
+                title: 'SEO Positioning',
+                description: 'We get your company on the first page of Google. We optimize your digital presence to organically attract qualified clients and boost your sales.',
+                tech: ['Technical SEO Audit', 'Local Optimization (Google My Business)', 'Keyword Research', 'Web Performance Optimization']
             }
         },
         about: {
@@ -280,6 +291,7 @@ export const translations = {
                 web: 'Web Development',
                 mobile: 'Mobile Application',
                 design: 'Graphic Design',
+                seo: 'SEO Positioning',
                 both: 'Web + Mobile',
                 other: 'Other',
                 message: 'Message',
