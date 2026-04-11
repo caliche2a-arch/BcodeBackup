@@ -11,7 +11,7 @@ export const translations = {
         hero: {
             subtitle: 'Consultoría y Desarrollo de Software',
             title: 'Multiplica las Ventas de tu Empresa con Tecnología',
-            description: 'Desde Cali, Colombia 🇨🇴 para el mundo. Automatiza procesos, mejora tu visibilidad en Google y escala tu negocio con soluciones de software a medida.',
+            description: 'Desde Cali, Colombia para el mundo. Automatiza procesos, mejora tu visibilidad en Google y escala tu negocio con soluciones de software a medida.',
             cta1: 'Iniciar Proyecto',
             cta2: 'Ver Servicios'
         },
@@ -115,7 +115,7 @@ export const translations = {
                 email: 'Email',
                 phones: 'Teléfonos',
                 location: 'Ubicación',
-                locationValue: 'Cali, Colombia 🇨🇴',
+                locationValue: 'Cali, Colombia',
                 reach: 'Alcance',
                 reachValue: 'Colombia & USA'
             },
@@ -147,7 +147,7 @@ export const translations = {
             }
         },
         footer: {
-            description: 'Desarrollo web y móvil de clase mundial desde Cali, Colombia 🇨🇴',
+            description: 'Desarrollo web y móvil de clase mundial desde Cali, Colombia',
             services: 'Servicios',
             company: 'Empresa',
             aboutUs: 'Sobre Nosotros',
@@ -173,7 +173,7 @@ export const translations = {
         hero: {
             subtitle: 'Software Consulting & Development',
             title: 'Multiply Your Company Sales with Technology',
-            description: 'From Cali, Colombia 🇨🇴 to the world. Automate processes, improve your Google visibility (SEO), and scale your business with custom software solutions.',
+            description: 'From Cali, Colombia to the world. Automate processes, improve your Google visibility (SEO), and scale your business with custom software solutions.',
             cta1: 'Start Project',
             cta2: 'View Services'
         },
@@ -277,7 +277,7 @@ export const translations = {
                 email: 'Email',
                 phones: 'Phones',
                 location: 'Location',
-                locationValue: 'Cali, Colombia 🇨🇴',
+                locationValue: 'Cali, Colombia',
                 reach: 'Reach',
                 reachValue: 'Colombia & USA'
             },
@@ -309,7 +309,7 @@ export const translations = {
             }
         },
         footer: {
-            description: 'World-class web and mobile development from Cali, Colombia 🇨🇴',
+            description: 'World-class web and mobile development from Cali, Colombia',
             services: 'Services',
             company: 'Company',
             aboutUs: 'About Us',
