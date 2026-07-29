@@ -319,7 +319,7 @@ function App() {
                   <div className="contact-icon">📧</div>
                   <div>
                     <div style={{ color: 'var(--text)', fontWeight: '600' }}>{t('contact.info.email')}</div>
-                    <div style={{ color: 'var(--text-muted)' }}>bcodebusinesssoftware@gmail.com</div>
+                    <div style={{ color: 'var(--text-muted)' }}>info.bcodeteam@gmail.com</div>
                   </div>
                 </div>
 
