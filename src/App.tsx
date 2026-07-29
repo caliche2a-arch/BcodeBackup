@@ -442,11 +442,8 @@ function App() {
               <p style={{ color: 'var(--text-muted)' }}>
                 {t('footer.description')}
               </p>
-              <div className="social-links" style={{ display: 'none' }}>
-                <a href="#" className="social-link">𝕏</a>
-                <a href="#" className="social-link">in</a>
-                <a href="#" className="social-link">f</a>
-                <a href="#" className="social-link">📷</a>
+              <div className="social-links">
+                <a href="https://x.com/BcodeConsulTeam" target="_blank" rel="noopener noreferrer" className="social-link" title="Síguenos en X">𝕏</a>
               </div>
             </div>
 
