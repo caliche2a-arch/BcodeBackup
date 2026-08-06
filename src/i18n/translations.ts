@@ -158,7 +158,9 @@ export const translations = {
             globalClients: 'Clientes Globales',
             faq: 'FAQ',
             contact: 'Contacto',
-            rights: 'Todos los derechos reservados.'
+            rights: 'Todos los derechos reservados.',
+            followX: 'Síguenos en X',
+            followTikTok: 'Síguenos en TikTok'
         }
     },
     en: {
@@ -320,7 +322,9 @@ export const translations = {
             globalClients: 'Global Clients',
             faq: 'FAQ',
             contact: 'Contact',
-            rights: 'All rights reserved.'
+            rights: 'All rights reserved.',
+            followX: 'Follow us on X',
+            followTikTok: 'Follow us on TikTok'
         }
     }
 }
